@@ -1,0 +1,28 @@
+body{
+    background: rgb(83, 129, 93);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1,h2{
+    font-family: fantasy;
+}
+p{
+    font-size: 18px;
+}
+
+header{
+    margin-top: 60px;
+}
+
+img{
+    margin-bottom: 40px;
+    width: 300px;
+}
+img.contato{
+    width: 50px;
+}
+
+footer{
+    margin-bottom: 40px;
+}
